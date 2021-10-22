@@ -1,4 +1,4 @@
-<p># CS-230 The Gaming Room's Draw It or Lose It</p>
+# CS-230 The Gaming Room STD
 <p><br /><strong>Briefly summarize The Gaming Room client and their software requirements. Who was the client? </strong></p>
 <p><strong>What type of software did they want you to design?</strong></p>
 <p><br /><strong>What did you do particularly well in developing this documentation?</strong></p>
