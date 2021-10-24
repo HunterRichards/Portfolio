@@ -1,4 +1,4 @@
-<p># CS-230 The Gaming Room's Draw It or Lose It</p>
+# CS-230 The Gaming Room's Draw It or Lose It
 <p><br /><strong>Briefly summarize The Gaming Room client and their software requirements. Who was the client? </strong></p>
 
 The Gaming Room is creating a game application called Draw It or Lose It (based on their current android game application). This new game application would be a web application and capable of operating on Windows, Linux, Mac, and Mobile Devices. The game consists of one or multiple teams, with each team having multiple players assigned to it. Each team is provided a rendered HD drawing that are fully complete at the 30-second mark. If the team does not guess the correct answer to the puzzle, the other teams will be given 15 seconds to provide the correct answer. 
