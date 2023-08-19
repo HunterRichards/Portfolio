@@ -1,0 +1,13 @@
+# CS-330 OpenGL 3D Scene
+
+<br><b>How do I approach designing software</b></br>
+
+Throughout the project, I honed my skills in conceptualizing and translating 2D images into 3D models. The challenge of taking a one-story ranch home and building it in OpenGL required a deep understanding of both the artistic and technical aspects of design. The design process began with identifying and breaking down the core components of the image, such as the main structure, roof, garage, windows, bushes, and sun/moon. Each component was mapped out, considering how they would interact in a 3D environment. A systematic, iterative approach was then taken to model each part, starting with the main structure and gradually adding more details. This meticulous, step-by-step process can be applied to future projects, ensuring that every component is given due attention and the design remains consistent throughout.
+
+<br><b>How do I approach developing programs</b></br>
+
+The development of the 3D scene involved several new strategies. One of the major techniques was creating 3D models based on 2D references, understanding the spatial relationships and depth required to translate the image. Iteration played a significant role. With each milestone, the scene became more refined, starting from basic models and progressing to camera movement, textures, and finally lighting. This iterative process ensured that any bugs or design inconsistencies were addressed in real-time, leading to a more polished final product. As the milestones progressed, I found that my approach to code development became more streamlined. I learned to anticipate potential challenges and develop solutions proactively, leading to the project's successful completion.
+
+<br><b>How can computer science help me in reaching my goals</b></br>
+
+Computational graphics and visualizations have equipped me with the skills to understand and manipulate visual data in a digital format. In terms of my educational pathway, this knowledge allows me to bridge the gap between art and technology, making me versatile in disciplines like digital arts, engineering, or even architecture. The ability to visualize complex data or concepts in a more tangible form can aid in research and presentations, making complex ideas more accessible to a broader audience. Professionally, these skills open up opportunities in various industries, from game development to architectural visualization, film, and animation. Understanding the nuances of computational graphics ensures that I can bring unique insights and expertise to any project, making me a valuable asset in collaborative, interdisciplinary teams.
